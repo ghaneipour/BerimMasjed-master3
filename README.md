@@ -15,4 +15,4 @@ Run npm install from the project root.
 Run ionic serve in a terminal from the project root.
 
 Profit. tada
-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
+ 
